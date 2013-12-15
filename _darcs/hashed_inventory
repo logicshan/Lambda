@@ -1,0 +1,30 @@
+pristine:48245063cb601cd2b494589edad6f08570bb43f64153093f68ed36a3aaee3268
+Starting with inventory:
+0000004643-38c4678195bb63a2cca0a5d264527737aff7322c2435b5b029c057625a9554ce
+[TAG rel0
+lennart@augustsson.net**20061112152234] 
+hash: 0000002159-a33135bcacdc6075d061d4fa7a944f03436b15ab6db09b495b4ede921bf5d124
+[xxx
+lennart@augustsson.net**20061112152323] 
+hash: 0000000108-5455faef8c636011447d160753a75ffb48391f165300a64372c4cd29324f5b44
+[Add timing.lam
+lennart@augustsson.net**20061112152514] 
+hash: 0000001031-7d72b3329a772283f65e2ab83807f0c0c438120d3a032c456544bb08354b5627
+[Add missing file.
+lennart@augustsson.net**20061113112806] 
+hash: 0000000647-474702c80de753d0d71c1cb301e12076a3aa5264e8d54211027a6047578fdba9
+[Fix a typo, and a bug in DeBruijin.lhs: \t. (\a. t) t  reduced to  \x0. f1
+Bertram Felgenhauer <int-e@gmx.de>**20061113074105] 
+hash: 0000000332-d62a05757c9757ddd5a5bf707abec0fcf7b35e1b043a1f96a0e8cb340218ef3e
+[Get rid of $!
+lennart@augustsson.net**20061113113052] 
+hash: 0000000172-99a80ea39aae71ec1ecd544527ce961886e3ddffde431c1596c59f5d9cc45b9e
+[Use strict data type to speed up DeBruijn.
+lennart@augustsson.net**20061113113235] 
+hash: 0000000197-a115c1b4c7a804420d99c4e7de358624fc1cce6db0d1af25488d2df47a9cf9d4
+[Use verbatim, not code.
+lennart@augustsson.net**20061113113306] 
+hash: 0000000166-e3dd82f681d07e5ba415eaf6d4a5932b054d0ad9fc348faeb98ee13e6fa60d4c
+[Add DeBruijnC from Bertram Felgenhauer <int-e@gmx.de>
+lennart@augustsson.net**20061113123846] 
+hash: 0000002299-52e0b94b67eacb97d3d6745756a191dc0e19342623e1cf40fb2eeac37ce1a911
